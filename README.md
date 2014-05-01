@@ -1,5 +1,6 @@
 tinyapp
 =========
 
-All my small experimental small application
+All my experimental small application.
+
 Author - Shuvankar Sarkar(@sonu041)
